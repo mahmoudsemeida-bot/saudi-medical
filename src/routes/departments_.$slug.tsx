@@ -124,7 +124,7 @@ function DepartmentDetailPage() {
                 حجز موعد الآن
               </Link>
               <a
-                href="https://wa.me/966500000000"
+                href="https://wa.me/201090408853"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="whatsapp-btn mt-3 px-6 py-3 rounded-xl font-bold text-sm w-full flex items-center justify-center gap-2"
