@@ -156,7 +156,7 @@ function PatientDashboard() {
                         <StatusBadge status={apt.status} />
                         <div className="flex gap-2">
                           <a
-                            href={`https://wa.me/966500000000?text=${encodeURIComponent(`تأكيد موعد مع ${apt.doctorName} بتاريخ ${apt.date} الساعة ${apt.time}`)}`}
+                            href={`https://wa.me/201090408853?text=${encodeURIComponent(`تأكيد موعد مع ${apt.doctorName} بتاريخ ${apt.date} الساعة ${apt.time}`)}`}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-xs whatsapp-btn px-3 py-1.5 rounded-lg"
