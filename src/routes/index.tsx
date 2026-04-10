@@ -91,7 +91,7 @@ function HomePage() {
                   احجز موعدك الآن
                 </Link>
                 <a
-                  href="https://wa.me/966500000000?text=مرحبا، أود الاستفسار عن خدمات المجمع الطبي"
+                  href="https://wa.me/201090408853?text=مرحبا، أود الاستفسار عن خدمات المجمع الطبي"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="whatsapp-btn px-8 py-4 rounded-2xl text-lg font-bold flex items-center gap-2"
